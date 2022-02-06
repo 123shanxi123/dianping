@@ -25,7 +25,7 @@ import MenuAside from '@/layout/BaseLayout/component/MenuAside'
 <style lang="scss" scoped>
 .base-layout{
 	@include wh(100vw, 100vh);
-	overflow:hidden;
+	// overflow:hidden;
 	.content{
 		background-color:#f7f7f7;
 	}
